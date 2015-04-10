@@ -67,7 +67,7 @@
         <!-- Deep Sleep Level -->
     <PreferenceCategory android:title="@string/deepsleep_subcat_title" >
         <com.teamcanjica.settings.device.MasterListPreference
-            android:defaultValue="3"
+            android:defaultValue="4"
             android:entries="@array/deepest_sleep_states_entries"
             android:entryValues="@array/deepest_sleep_states_entries_values"
             android:key="deepest_sleep_state"

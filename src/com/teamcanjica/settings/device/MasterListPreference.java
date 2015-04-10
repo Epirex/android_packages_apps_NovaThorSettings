@@ -112,7 +112,7 @@ OnPreferenceChangeListener {
 				DeviceSettings.KEY_CHARGER_CURRENCY, "600"));
 		
 		Utils.writeValue(FILE_DEEPEST_SLEEP_STATE, sharedPrefs.getString(
-				DeviceSettings.KEY_DEEPEST_SLEEP_STATE, "3"));
+				DeviceSettings.KEY_DEEPEST_SLEEP_STATE, "4"));
 		
 		sendIntent(context,
 				sharedPrefs.getString(DeviceSettings.KEY_HSPA, "23"));
