@@ -32,7 +32,7 @@
             android:title="@string/mali_boost_delay_title_head"
             android:digits="0123456789"
             android:inputType="number"
-            android:defaultValue="500" />
+            android:defaultValue="200" />
 
         <!-- Adjust mali boost high clock -->
         <com.teamcanjica.settings.device.MasterEditTextPreference
