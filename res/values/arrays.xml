@@ -189,7 +189,7 @@
         <item>460 MHz</item>
         <item>468 MHz</item>
         <item>476 MHz</item>
-        <item>483 MHz</item>
+        <item>480 MHz</item>
         <item>491 MHz</item>
         <item>500 MHz</item>
         <item>506 MHz</item>
@@ -327,7 +327,6 @@
         <item>791040</item>
         <item>798720</item>
         <item>806400</item>
-
     </string-array>
 
     <!-- Panel Gamma -->
