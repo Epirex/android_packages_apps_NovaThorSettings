@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">Desactivar el AutoBoost de la GPU</string>
   <string name="disable_autoboost_summary_head">Desactivar el incremento automático (AutoBoost) de la GPU permite fijar manualmente velocidades de reloj.</string>
   <string name="set_gpu_clock_title_head">Velocidad de reloj</string>
-  <string name="set_gpu_clock_summary_head">Fijar velocidad de reloj de la GPU. Predeterminado:300MHz</string>
+  <string name="set_gpu_clock_summary_head">Fijar velocidad de reloj de la GPU. Predeterminado: 300MHz</string>
   <string name="disable_fullspeed_title_head">Desactivar GPU a toda-velocidad</string>
   <string name="disable_fullspeed_summary_head">Por defecto, el reloj de la GPU funciona a toda velocidad. Utilizar la mitad de la velocidad (399 kHz / 2 = 199 kHz, etc.)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>

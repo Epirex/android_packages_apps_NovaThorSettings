@@ -228,7 +228,7 @@
     <!-- SUBCATEGORY: Mali Boost -->
     <string name="mali_boost_subcat_title">Mali Boost</string>
     <string name="mali_boost_delay_title_head">Mali Boost Delay</string>
-    <string name="mali_boost_delay_summary_head">Adjust the delay at which GPU boosts frequency, in ms. Default:200</string>
+    <string name="mali_boost_delay_summary_head">Adjust the delay at which GPU boosts frequency, in ms. Default: 200</string>
     <string name="boost_highthresh_summary_head">Adjust the threshold at which GPU clock increases. Default:233</string>
     <string name="boost_highthresh_title_head">Mali High Threshold</string>
     <string name="boost_lowthresh_title_head">Mali Low Threshold</string>
