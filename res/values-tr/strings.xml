@@ -66,7 +66,7 @@
   <string name="enable_hsldiggain_title_head">HsLDigGain</string>
   <string name="enable_hsldiggain_summary_head">Kulaklık sol dijital yol kazancını etkinleştir.</string>
   <string name="hsldiggain_control_title_head">HsLDigGain kazanç kontrolü</string>
-  <string name="hsldiggain_control_dialog_message">HsLDigGain için ses kazancı miktarını seçin. Varsayılan:4</string>
+  <string name="hsldiggain_control_dialog_message">HsLDigGain için ses kazancı miktarını seçin. Varsayılan: 4</string>
   <string name="enable_hsrdiggain_title_head">HsRDigGain</string>
   <string name="enable_hsrdiggain_summary_head">Kulaklık sağ dijital yol kazancını etkinleştir.</string>
   <string name="hsrdiggain_control_title_head">HsLDigGain kazanç kontrolü</string>
@@ -75,7 +75,7 @@
   <string name="enable_addiggain2_title_head">ADDigGain2</string>
   <string name="enable_addiggain2_summary_head">Telefon mikrofonu dijital yol kazancını etkinleştir.</string>
   <string name="addiggain2_control_title_head">ADDigGain2 kazanç kontrolü</string>
-  <string name="addiggain2_control_dialog_message">ADDigGain2 için ses kazancı miktarını seçin. Varsayılan:25</string>
+  <string name="addiggain2_control_dialog_message">ADDigGain2 için ses kazancı miktarını seçin. Varsayılan: 25</string>
   <string name="enable_eardiggain_title_head">EarDigGain</string>
   <string name="enable_eardiggain_summary_head">Parça kulaklık dijital yol kazancını etkinleştir.</string>
   <string name="eardiggain_control_title_head">EarDigGain kazanç kontrolü</string>
@@ -83,7 +83,7 @@
   <string name="enable_classdhpg_title_head">ClassDHPG</string>
   <string name="enable_classdhpg_summary_head">ClassD amplifikatör high-pass kazancı etkinleştir.</string>
   <string name="classdhpg_control_title_head">ClassDHPG kazanç kontrolü</string>
-  <string name="classdhpg_control_dialog_message">ClassDHPG için ses kazancı miktarını seçin. Varsayılan:10</string>
+  <string name="classdhpg_control_dialog_message">ClassDHPG için ses kazancı miktarını seçin. Varsayılan: 10</string>
   <string name="powermodes_subcat_title">Güç modları</string>
   <string name="enable_lpa_mode_title_head">LPA modu</string>
   <string name="enable_lpa_mode_summary_head">Düşük-güç ses modunu etkinleştirir.</string>
@@ -108,9 +108,9 @@
   <string name="use_sweep2wake_title_head">Sweep2Wake</string>
   <string name="use_sweep2wake_summary_head">Cihazı parmağınızı ekranda sürükleyerek uyandırın.\nDokunarak uyandırmak için x ve y düzlem eşiklerini 0\'a getirin.</string>
   <string name="x_sweep2wake_title_head">S2W x eşiği</string>
-  <string name="x_sweep2wake_summary_head">x eksenindeki sürükleme eşiği üzerinde değişiklik yapın. Varsayılan:120</string>
+  <string name="x_sweep2wake_summary_head">x eksenindeki sürükleme eşiği üzerinde değişiklik yapın. Varsayılan: 120</string>
   <string name="y_sweep2wake_title_head">S2W y eşiği</string>
-  <string name="y_sweep2wake_summary_head">y eksenindeki sürükleme eşiği üzerinde değişiklik yapın. Varsayılan:120</string>
+  <string name="y_sweep2wake_summary_head">y eksenindeki sürükleme eşiği üzerinde değişiklik yapın. Varsayılan: 120</string>
   <string name="touchscreen_sensitivity_title_head">Dokunma hassasiyeti</string>
   <string name="touchscreen_sensitivity_summary_head">Dokunmatik panel hassasiyetini ayarlayın</string>
   <string name="screen_colours_subcat_title">Renkler</string>
@@ -135,10 +135,10 @@
   <string name="mali_boost_subcat_title">Mali Boost</string>
   <string name="mali_boost_delay_title_head">Mali Boost gecikmesi</string>
   <string name="mali_boost_delay_summary_head">GPU\'nun frekansı yükselttiği gecikmeyi ms cinsinden belirtin. Varsayılan: 200</string>
-  <string name="boost_highthresh_summary_head">GPU clock\'unun yükseldiği eşiği belirtin. Varsayılan:233</string>
+  <string name="boost_highthresh_summary_head">GPU clock\'unun yükseldiği eşiği belirtin. Varsayılan: 233</string>
   <string name="boost_highthresh_title_head">Mali yüksek eşik</string>
   <string name="boost_lowthresh_title_head">Mali düşük eşik</string>
-  <string name="boost_lowthresh_summary_head">GPU clock\'unun düştüğü eşiği belirtin. Varsayılan:64</string>
+  <string name="boost_lowthresh_summary_head">GPU clock\'unun düştüğü eşiği belirtin. Varsayılan: 64</string>
   <string name="set_high_clock_title_head">Fazla yüklü clock hızı</string>
   <string name="set_high_clock_summary_head">Fazla yüklü GPU clock hızını ayarlayın. Varsayılan: 480 MHz</string>
   <string name="set_low_clock_title_head">Düşük yüklü clock hızı</string>
@@ -158,7 +158,7 @@
   <string name="scheduler_subcat_title">Zamanlayıcı</string>
   <string name="sched_mc_title_head">Çok çekirdekli güç tasarrufu</string>
   <string name="sched_mc_summary_head">Hotplug gibi güç kazançları sağlamak için görevleri olabildiğince az çekirdeğe gruplamaya çalış.</string>
-  <string name="readaheadkb_dialog_message">Önokuma arabellek boyutunu seçin. Varsayılan:512 kB</string>
+  <string name="readaheadkb_dialog_message">Önokuma arabellek boyutunu seçin. Varsayılan: 512 kB</string>
   <string name="readaheadkb_title_head">Önokuma arabellek boyutu</string>
   <string name="readaheadkb_summary_head">Önokuma Hafıza kartı okuma yazma performansını etkiler.</string>
   <string name="boottime_subcat_title">Açılış süresi</string>
