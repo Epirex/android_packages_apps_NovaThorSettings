@@ -88,7 +88,7 @@ public class MasterEditTextPreference extends EditTextPreference implements OnPr
 
 		// Mali boost delay
 		Utils.writeValue(FILE_BOOST_DELAY, sharedPrefs.getString(
-				DeviceSettings.KEY_BOOST_DELAY, "500"));
+				DeviceSettings.KEY_BOOST_DELAY, "200"));
 
 		// Mali boost high threshold
 		Utils.writeValue(FILE_BOOST_HIGH, "threshold=" + sharedPrefs.getString(

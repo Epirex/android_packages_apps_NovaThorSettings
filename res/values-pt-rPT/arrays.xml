@@ -52,99 +52,19 @@
     <item>Agressivo</item>
   </string-array>
   <string-array name="set_gpu_clock_entries">
-    <item> 99 MHz</item>
-    <item>107 MHz</item>
-    <item>115 MHz</item>
-    <item>122 MHz</item>
-    <item>130 MHz</item>
-    <item>138 MHz</item>
-    <item>145 MHz</item>
-    <item>153 MHz</item>
-    <item>161 MHz</item>
-    <item>168 MHz</item>
-    <item>176 MHz</item>
-    <item>184 MHz</item>
-    <item>192 MHz</item>
-    <item>200 MHz</item>
-    <item>207 MHz</item>
-    <item>215 MHz</item>
-    <item>222 MHz</item>
-    <item>230 MHz</item>
-    <item>238 MHz</item>
-    <item>245 MHz</item>
-    <item>253 MHz</item>
-    <item>261 MHz</item>
-    <item>268 MHz</item>
-    <item>276 MHz</item>
-    <item>284 MHz</item>
-    <item>291 MHz</item>
+    <item>120 MHz</item>
+    <item>180 MHz</item>
+    <item>240 MHz</item>
     <item>300 MHz</item>
-    <item>307 MHz</item>
-    <item>314 MHz</item>
-    <item>322 MHz</item>
-    <item>330 MHz</item>
-    <item>337 MHz</item>
-    <item>345 MHz</item>
-    <item>353 MHz</item>
     <item>360 MHz</item>
-    <item>368 MHz</item>
-    <item>376 MHz</item>
-    <item>384 MHz</item>
-    <item>391 MHz</item>
-    <item>400 MHz</item>
-    <item>407 MHz</item>
-    <item>414 MHz</item>
-    <item>422 MHz</item>
-    <item>430 MHz</item>
-    <item>437 MHz</item>
-    <item>445 MHz</item>
-    <item>453 MHz</item>
-    <item>460 MHz</item>
-    <item>468 MHz</item>
-    <item>476 MHz</item>
+    <item>420 MHz</item>
     <item>480 MHz</item>
-    <item>491 MHz</item>
-    <item>500 MHz</item>
-    <item>506 MHz</item>
-    <item>514 MHz</item>
-    <item>522 MHz</item>
-    <item>529 MHz</item>
-    <item>537 MHz</item>
-    <item>545 MHz</item>
-    <item>552 MHz</item>
-    <item>560 MHz</item>
-    <item>568 MHz</item>
-    <item>576 MHz</item>
-    <item>583 MHz</item>
-    <item>591 MHz</item>
+    <item>540 MHz</item>
     <item>600 MHz</item>
-    <item>606 MHz</item>
-    <item>614 MHz</item>
-    <item>622 MHz</item>
-    <item>629 MHz</item>
-    <item>637 MHz</item>
-    <item>645 MHz</item>
-    <item>652 MHz</item>
     <item>660 MHz</item>
-    <item>668 MHz</item>
-    <item>675 MHz</item>
-    <item>683 MHz</item>
-    <item>691 MHz</item>
-    <item>700 MHz</item>
-    <item>706 MHz</item>
-    <item>714 MHz</item>
-    <item>721 MHz</item>
-    <item>729 MHz</item>
-    <item>737 MHz</item>
-    <item>744 MHz</item>
-    <item>752 MHz</item>
-    <item>760 MHz</item>
-    <item>768 MHz</item>
-    <item>775 MHz</item>
-    <item>783 MHz</item>
-    <item>791 MHz</item>
+    <item>720 MHz</item>
+    <item>780 MHz</item>
     <item>800 MHz</item>
-    <item>806 MHz</item>
   </string-array>
   <string-array name="panel_gamma_entries">
     <item>2.2 (padrão)</item>

@@ -13,7 +13,7 @@
             android:key="set_gpu_clock"
             android:summary="@string/set_gpu_clock_summary_head"
             android:title="@string/set_gpu_clock_title_head"
-            android:defaultValue="399360"
+            android:defaultValue="307200"
             android:entries="@array/set_gpu_clock_entries"
             android:entryValues="@array/set_gpu_clock_entries_values" />
         
@@ -57,7 +57,7 @@
             android:key="set_high_clock"
             android:summary="@string/set_high_clock_summary_head"
             android:title="@string/set_high_clock_title_head"
-            android:defaultValue="480000"
+            android:defaultValue="499200"
             android:entries="@array/set_gpu_clock_entries"
             android:entryValues="@array/set_gpu_clock_entries_values" />
 
@@ -66,7 +66,7 @@
             android:key="set_low_clock"
             android:summary="@string/set_low_clock_summary_head"
             android:title="@string/set_low_clock_title_head"
-            android:defaultValue="399360"
+            android:defaultValue="307200"
             android:entries="@array/set_gpu_clock_entries"
             android:entryValues="@array/set_gpu_clock_entries_values" />
     </PreferenceCategory>
