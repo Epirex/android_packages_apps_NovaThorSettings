@@ -129,12 +129,12 @@
   <string name="disable_autoboost_title_head">Deaktiviere AutoBoost GPU</string>
   <string name="disable_autoboost_summary_head">Das Deaktivieren des AutoBoost-Governors wird Ihnen erlauben manuelle GPU-Taktraten zu setzen.</string>
   <string name="set_gpu_clock_title_head">Taktrate</string>
-  <string name="set_gpu_clock_summary_head">Setze statische GPU-Taktrate. Standard: 400MHz</string>
+  <string name="set_gpu_clock_summary_head">Setze statische GPU-Taktrate. Standard: 300MHz</string>
   <string name="disable_fullspeed_title_head">Deaktiviere GPU-Fullspeed</string>
   <string name="disable_fullspeed_summary_head">In der Standardeinstellung arbeitet die GPU im Fullspeed. Ändern Sie dies in Halfspeed (399 kHz / 2 = 199 kHz, etc.)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>
   <string name="mali_boost_delay_title_head">Mali Boost-Spanne</string>
-  <string name="mali_boost_delay_summary_head">Wähle die Spanne in welcher die GPU die Frequenz erhöht, in ms. Standard: 500</string>
+  <string name="mali_boost_delay_summary_head">Wähle die Spanne in welcher die GPU die Frequenz erhöht, in ms. Standard: 200</string>
   <string name="boost_highthresh_summary_head">Wähle die Schwelle ab welcher sich die Taktrate erhöht. Standard: 233</string>
   <string name="boost_highthresh_title_head">Mali oberer Schwellenwert</string>
   <string name="boost_lowthresh_title_head">Mali niedriger Schwellenwert</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Hochlast-Taktfrequenz</string>
   <string name="set_high_clock_summary_head">Lege Hochlast-Taktrate der GPU fest. Standard: 480MHz</string>
   <string name="set_low_clock_title_head">Leichtbelastung-Taktfrequenz</string>
-  <string name="set_low_clock_summary_head">Lege Leichtbelastung-Taktrate fest. Standard: 400MHz</string>
+  <string name="set_low_clock_summary_head">Lege Leichtbelastung-Taktrate fest. Standard: 300MHz</string>
   <string name="gpu_misc_subcat_title">Sonstiges</string>
   <string name="gpu_voltage_title_head">GPU-Undervolting</string>
   <string name="gpu_voltage_summary_head">ACHTUNG! STARK EMPFOHLEN DAS WIEDERHERSTELLEN BEIM NEUSTART IN DEN EINSTELLUNGEN ZU DEAKTIVIEREN! Diese Spannungen beeinflussen auch andere Bereiche wie etwa <b>Video, Bild und Audio</b>, nicht nur die GPU! UNDERVOLT AUF EIGENE GEFAHR!</string>

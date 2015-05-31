@@ -134,20 +134,20 @@
   <string name="disable_autoboost_summary_head">Prin dezactivarea acestei optiuni, se va permite setarea manuala a frecventei GPU.
 </string>
   <string name="set_gpu_clock_title_head">Frecventa GPU</string>
-  <string name="set_gpu_clock_summary_head">Setati frecventa statica pentru GPU. Implicit:400MHz</string>
+  <string name="set_gpu_clock_summary_head">Setati frecventa statica pentru GPU. Implicit: 300MHz</string>
   <string name="disable_fullspeed_title_head">Dezactivati frecventa maxima pentru GPU</string>
   <string name="disable_fullspeed_summary_head">Implicit, frecventa GPU este maxima. Schimbati pentru a o seta la jumatate (399 kHz / 2 = 199 kHz, etc.)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>
   <string name="mali_boost_delay_title_head">Intarziere Mali Boost</string>
-  <string name="mali_boost_delay_summary_head">Reglati întarzierea la care frecventa GPU creste, in ms. Implicit: 500</string>
+  <string name="mali_boost_delay_summary_head">Reglati întarzierea la care frecventa GPU creste, in ms. Implicit: 200</string>
   <string name="boost_highthresh_summary_head">Reglati pragul de la care frecventa GPU creste. Implicit: 233</string>
   <string name="boost_highthresh_title_head">Mali prag ridicat</string>
   <string name="boost_lowthresh_title_head">Mali prag scazut</string>
   <string name="boost_lowthresh_summary_head">Reglati pragul de la care frecventa GPU scade. Implicit: 64</string>
   <string name="set_high_clock_title_head">Frecventa GPU maxima</string>
-  <string name="set_high_clock_summary_head">Setati frecventa GPU maxima. Implicit:480MHz</string>
+  <string name="set_high_clock_summary_head">Setati frecventa GPU maxima. Implicit: 480MHz</string>
   <string name="set_low_clock_title_head">Frecventa GPU minima</string>
-  <string name="set_low_clock_summary_head">Setati frecventa GPU minima. Implicit:400MHz</string>
+  <string name="set_low_clock_summary_head">Setati frecventa GPU minima. Implicit: 300MHz</string>
   <string name="gpu_misc_subcat_title">Diverse</string>
   <string name="gpu_voltage_title_head">GPU Undervolting</string>
   <string name="gpu_voltage_summary_head">Atentie! Este recomandat sa dezactivati optiunea de restaurare setari  la restartare. Aceasta tensiune alimenteaza alte module, nu numai GPU-ul. Utilizati aceasta optiune pe riscul dumneavoasta.</string>

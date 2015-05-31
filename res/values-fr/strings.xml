@@ -129,12 +129,12 @@
   <string name="disable_autoboost_title_head">Désactiver le Boost automatique du GPU</string>
   <string name="disable_autoboost_summary_head">Désactiver la gouvernance automatique du boost du GPU vous permettra de régler manuellement la vitesse d\'horloge statique du GPU.</string>
   <string name="set_gpu_clock_title_head">Vitesse d\'horloge</string>
-  <string name="set_gpu_clock_summary_head">Définir la vitesse d\'horloge statique du GPU . Par défaut : 400 MHz</string>
+  <string name="set_gpu_clock_summary_head">Définir la vitesse d\'horloge statique du GPU . Par défaut : 300 MHz</string>
   <string name="disable_fullspeed_title_head">Désactiver la vitesse Max du GPU</string>
   <string name="disable_fullspeed_summary_head">Par défaut, l\'horloge du GPU travaille à vitesse Max. Changer pour une demie vitesse (399 kHz / 2 = 199 kHz, etc..)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>
   <string name="mali_boost_delay_title_head">Délai du Mali Boost</string>
-  <string name="mali_boost_delay_summary_head">Régler le délai après lequel le GPU augmente sa fréquence, en ms. Par défaut : 500</string>
+  <string name="mali_boost_delay_summary_head">Régler le délai après lequel le GPU augmente sa fréquence, en ms. Par défaut : 200</string>
   <string name="boost_highthresh_summary_head">Ajustez le seuil d\'augmentation de l\'horloge du GPU. Par défaut : 233</string>
   <string name="boost_highthresh_title_head">Seuil haut Mali</string>
   <string name="boost_lowthresh_title_head">Seuil bas Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Vitesse d\'horloge en charge élevée</string>
   <string name="set_high_clock_summary_head">Définir la vitesse d\'horloge GPU en charge élevée. Par défaut : 480 MHz</string>
   <string name="set_low_clock_title_head">Vitesse d\'horloge en faible charge</string>
-  <string name="set_low_clock_summary_head">Définir la vitesse d\'horloge GPU en faible charge. Par défaut : 400 MHz</string>
+  <string name="set_low_clock_summary_head">Définir la vitesse d\'horloge GPU en faible charge. Par défaut : 300 MHz</string>
   <string name="gpu_misc_subcat_title">Divers</string>
   <string name="gpu_voltage_title_head">Sous-tension du GPU</string>
   <string name="gpu_voltage_summary_head">MÉFIEZ-VOUS ! IL EST FORTEMENT RECOMMANDÉ DE DÉSACTIVER LA RESTAURATION DES PARAMÈTRES APRÈS REDÉMARRAGE ! Ces tensions servent également à d\'autres moteurs tels que <b>les moteurs vidéo, Image, Audio </b>, pas seulement le GPU ! UTILISER À VOS RISQUES ET PÉRILS !</string>

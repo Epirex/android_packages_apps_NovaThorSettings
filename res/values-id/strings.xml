@@ -129,12 +129,12 @@
   <string name="disable_autoboost_title_head">Nonaktifkan AutoBoost GPU</string>
   <string name="disable_autoboost_summary_head">Menonaktifkan autoboosting governor GPU akan memungkinkan Anda untuk mengatur secara manual kecepatan statis clock GPU.</string>
   <string name="set_gpu_clock_title_head">Kecepatan Clock</string>
-  <string name="set_gpu_clock_summary_head">Atur kecepatan clock GPU statis. Standar: 400 MHz</string>
+  <string name="set_gpu_clock_summary_head">Atur kecepatan clock GPU statis. Standar: 300 MHz</string>
   <string name="disable_fullspeed_title_head">Nonaktifkan GPU kecepatan penuh</string>
   <string name="disable_fullspeed_summary_head">Standarnya, clock GPU bekerja pada kecepatan penuh. Ubah kecepatan penuh ke kecepatan setengah (399 kHz / 2 = 199 kHz, dll.)</string>
   <string name="mali_boost_subcat_title">Menaikkan Mali</string>
   <string name="mali_boost_delay_title_head">Menaikkan Penundaan Mali</string>
-  <string name="mali_boost_delay_summary_head">Mengatur penundaan pada GPU saat meningkatkan frekuensi, dalam ms. Standar: 500</string>
+  <string name="mali_boost_delay_summary_head">Mengatur penundaan pada GPU saat meningkatkan frekuensi, dalam ms. Standar: 200</string>
   <string name="boost_highthresh_summary_head">Atur ambang dimana clock GPU meningkat. Standar:233</string>
   <string name="boost_highthresh_title_head">Ambang tinggi Mali</string>
   <string name="boost_lowthresh_title_head">Ambang rendah Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Kecepatan Tinggi Beban Clock</string>
   <string name="set_high_clock_summary_head">Mengatur beban tinggi pada kecepatan clock GPU. Standar: 480 MHz</string>
   <string name="set_low_clock_title_head">Kecepatan Rendah Beban Clock</string>
-  <string name="set_low_clock_summary_head">Atur kecepatan rendah beban clock GPU. Standar: 400 MHz</string>
+  <string name="set_low_clock_summary_head">Atur kecepatan rendah beban clock GPU. Standar: 300 MHz</string>
   <string name="gpu_misc_subcat_title">Lainnya</string>
   <string name="gpu_voltage_title_head">Mengurangi Voltase GPU</string>
   <string name="gpu_voltage_summary_head">HATI-HATI! SANGAT DIANJURKAN UNTUK MENONAKTIFKAN PENGEMBALIAN SAAT REBOOT DALAM PENGATURAN! Tegangan ini juga men-suplai engine lain seperti <b>Video, Gambar, Audio engine</b>, bukan hanya GPU. MENGURANGI VOLTASE DENGAN RESIKO ANDA SENDIRI!</string>

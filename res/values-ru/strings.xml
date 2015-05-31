@@ -129,12 +129,12 @@
   <string name="disable_autoboost_title_head">Отключить AutoBoost GPU</string>
   <string name="disable_autoboost_summary_head">Отключение автоматического повышения частоты GPU позволит вручную задавать статическую частоту.</string>
   <string name="set_gpu_clock_title_head">Тактовая частота</string>
-  <string name="set_gpu_clock_summary_head">Задать статическую тактовую частоту GPU. По умолчанию: 400 МГц</string>
+  <string name="set_gpu_clock_summary_head">Задать статическую тактовую частоту GPU. По умолчанию: 300 МГц</string>
   <string name="disable_fullspeed_title_head">Отключить полную скорость GPU</string>
   <string name="disable_fullspeed_summary_head">По умолчанию GPU работает на полной частоте. Изменить частоту на половинную (399 кГц / 2 = 199 кГц и т.д.)</string>
   <string name="mali_boost_subcat_title">Повышение частоты Mali</string>
   <string name="mali_boost_delay_title_head">Задержка повышения частоты Mali</string>
-  <string name="mali_boost_delay_summary_head">Настроить задержку, с которой GPU повышает частоту, в мс. По умолчанию: 500</string>
+  <string name="mali_boost_delay_summary_head">Настроить задержку, с которой GPU повышает частоту, в мс. По умолчанию: 200</string>
   <string name="boost_highthresh_summary_head">Настроить порог, при достижении которого тактовая частота повышается. По умолчанию: 233</string>
   <string name="boost_highthresh_title_head">Верхний порог Mali</string>
   <string name="boost_lowthresh_title_head">Нижний порог Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Тактовая частота высокой нагрузки</string>
   <string name="set_high_clock_summary_head">Задать тактовую частоту высокой нагрузки GPU. По умолчанию: 480 МГц</string>
   <string name="set_low_clock_title_head">Тактовая частота низкой нагрузки</string>
-  <string name="set_low_clock_summary_head">Задать тактовую частоту низкой нагрузки GPU. По умолчанию: 400 МГц</string>
+  <string name="set_low_clock_summary_head">Задать тактовую частоту низкой нагрузки GPU. По умолчанию: 300 МГц</string>
   <string name="gpu_misc_subcat_title">Прочее</string>
   <string name="gpu_voltage_title_head">Понижение напряжения на GPU</string>
   <string name="gpu_voltage_summary_head">ВНИМАНИЕ! НАСТОЯТЕЛЬНО РЕКОМЕНДУЕТСЯ ОТКЛЮЧИТЬ ВОССТАНОВЛЕНИЕ НАСТРОЕК ПОСЛЕ ПЕРЕЗАГРУЗКИ! Введенные значения повлияют на напряжение не только на GPU, но и на прочих модулях, таких как <b>видео, изображения, аудио</b>! ВЫ ПОНИЖАЕТЕ НАПРЯЖЕНИЕ НА СВОЙ СТРАХ И РИСК!</string>

@@ -129,12 +129,12 @@
   <string name="disable_autoboost_title_head">تعطيل التسارع التلقائي لمعالج الرسومات</string>
   <string name="disable_autoboost_summary_head">تعطيل حاكم التسارع التلقائي لمعالج الرسومات سيسمح لك بتعيين سرعه ثابته لمعالج الرسومات.</string>
   <string name="set_gpu_clock_title_head">سرعه المعالج</string>
-  <string name="set_gpu_clock_summary_head">حدد قيمة ثابتة لسرعة المعالج. الافتراضي: 400MHz</string>
+  <string name="set_gpu_clock_summary_head">حدد قيمة ثابتة لسرعة المعالج. الافتراضي: 300MHz</string>
   <string name="disable_fullspeed_title_head">تعطيل السرعة القصوى لمعالج الرسومات</string>
   <string name="disable_fullspeed_summary_head">افتراضياً، معالج الرسومات يعمل على اقصى سرعة. تفعيل هذا الخيار يخفض السرعة الى النصف (399kHz / 2 = 199kHz , الخ.)</string>
   <string name="mali_boost_subcat_title">تعزيز معالج الرسومات Mali</string>
   <string name="mali_boost_delay_title_head">تأخير تعزيز معالج الرسومات Mali</string>
-  <string name="mali_boost_delay_summary_head">اضبط قيمة التأخير لتعزيز  تردد معالج الرسومات. يقاس ب ms. الافتراضي:500</string>
+  <string name="mali_boost_delay_summary_head">اضبط قيمة التأخير لتعزيز  تردد معالج الرسومات. يقاس ب ms. الافتراضي:200</string>
   <string name="boost_highthresh_summary_head">اضبط قيمة النهاية التي يبدأ عندها التسارع لسرعة معالج الرسومات. الافتراضي: 233</string>
   <string name="boost_highthresh_title_head">النهاية القصوى لمعالج الرسومات Mali</string>
   <string name="boost_lowthresh_title_head">النهاية الدنيا لمعالج الرسومات Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">اقصى سرعه لمعالج الرسومات</string>
   <string name="set_high_clock_summary_head">حدد اقصى سرعه لمعالج الرسومات. الافتراضي: 480MHz</string>
   <string name="set_low_clock_title_head">اقل سرعه لمعالج الرسومات</string>
-  <string name="set_low_clock_summary_head">حدد اقل سرعه لمعالج الرسومات. الافتراضي: 400MHz</string>
+  <string name="set_low_clock_summary_head">حدد اقل سرعه لمعالج الرسومات. الافتراضي: 300MHz</string>
   <string name="gpu_misc_subcat_title">الاضافات</string>
   <string name="gpu_voltage_title_head">خفض الجهد لمعالج الرسومات</string>
   <string name="gpu_voltage_summary_head">إحذر! ينصح بشدة تعطيل الاستعادة عند الاقلاع ! هذا الجهد يتضمن ايضا المحركات الاخرى مثل<b>محرك الفيديو، محرك الصور، محرك الصوت</b>, ليس معالج الرسومات فقط! اخفض الجهد على مسؤوليتك الخاصة!</string>

@@ -129,20 +129,20 @@
   <string name="disable_autoboost_title_head">Disattiva l\'autoboost della GPU</string>
   <string name="disable_autoboost_summary_head">Disabilitando la gestione automatica della GPU, potrai impostare manualmente una velocità fissa.</string>
   <string name="set_gpu_clock_title_head">Frequenza</string>
-  <string name="set_gpu_clock_summary_head">Imposta la velocità fissa della GPU. Impostazione predefinita: 400 MHz</string>
+  <string name="set_gpu_clock_summary_head">Imposta la velocità fissa della GPU. Impostazione predefinita: 300 MHz</string>
   <string name="disable_fullspeed_title_head">Disattiva la massima frequenza della GPU</string>
   <string name="disable_fullspeed_summary_head">Di default, la GPU lavora alla velocità massima. Cambiala con velocità intermedie (399 kHz / 2 = 199 kHz, etc.)</string>
   <string name="mali_boost_subcat_title">Aumento prestazioni Mali</string>
   <string name="mali_boost_delay_title_head">Ritardo nell\'aumento prestazioni Mali</string>
-  <string name="mali_boost_delay_summary_head">Regola il ritardo con cui la GPU aumenta la sua frequenza, in ms. Predefinito: 500</string>
+  <string name="mali_boost_delay_summary_head">Regola il ritardo con cui la GPU aumenta la sua frequenza, in ms. Predefinito: 200</string>
   <string name="boost_highthresh_summary_head">Regola la soglia a cui la GPU aumenta la sua frequenza. Predefinita: 233</string>
   <string name="boost_highthresh_title_head">Soglia superiore Mali</string>
   <string name="boost_lowthresh_title_head">Soglia inferiore Mali</string>
   <string name="boost_lowthresh_summary_head">Regola la soglia a cui la GPU diminuisce la sua frequenza. Predefinito: 64</string>
   <string name="set_high_clock_title_head">Valore massimo della frequenza GPU</string>
-  <string name="set_high_clock_summary_head">Impostare la frequenza della GPU sotto alto carico di lavoro. Predefinito:480 MHz</string>
+  <string name="set_high_clock_summary_head">Impostare la frequenza della GPU sotto alto carico di lavoro. Predefinito: 480 MHz</string>
   <string name="set_low_clock_title_head">Valore minimo della frequenza GPU</string>
-  <string name="set_low_clock_summary_head">Impostare il valore minimo della frequenza della GPU. Predefinito:400 MHz</string>
+  <string name="set_low_clock_summary_head">Impostare il valore minimo della frequenza della GPU. Predefinito: 300 MHz</string>
   <string name="gpu_misc_subcat_title">Varie</string>
   <string name="gpu_voltage_title_head">GPU Undervolting</string>
   <string name="gpu_voltage_summary_head">ATTENZIONE! E\' ALTAMENTE RACCOMANDATO DISATTIVARE IL RIPRISTINO AL RIAVVIO NELLE IMPOSTAZIONI! Queste tensioni anche forniscono energia anche ad altri parti del telefono come <b>Video, immagine, Audio</b>, non solo GPU!EFFETTUA L\'UNDERVOLTING A TUO RISCHIO!</string>
