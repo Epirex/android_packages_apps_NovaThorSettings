@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">A videókártya automatikus gyorsításának letiltása</string>
   <string name="disable_autoboost_summary_head">A videókártya automatikus gyorsításának letiltásával lehetővé válik a statikus videókártya órajel kézi beállítása.</string>
   <string name="set_gpu_clock_title_head">Órajel</string>
-  <string name="set_gpu_clock_summary_head">Állítsa be a statikus videókártya órajelet. Alapértelmezett: 300 MHz</string>
+  <string name="set_gpu_clock_summary_head">Állítsa be a statikus videókártya órajelet. Alapértelmezett: 400 MHz</string>
   <string name="disable_fullspeed_title_head">Tiltsa le a GPU maximális értékét</string>
   <string name="disable_fullspeed_summary_head">Alapértelmezetten a videókártya maximális órajelen dolgozik. Változtassa ezt félsebességre (399 kHz / 2 = 199 kHz, stb.)</string>
   <string name="mali_boost_subcat_title">Mali gyorsítás</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Nagy terhelés órajel</string>
   <string name="set_high_clock_summary_head">Állítsa be a nagy terhelés videókártya órajelét. Alapértelmezett: 480 MHz</string>
   <string name="set_low_clock_title_head">Alacsony terhelés órajel</string>
-  <string name="set_low_clock_summary_head">Állítsa be az alacsony terhelésű videókártya órajelet. Alapértelmezett: 300 MHz</string>
+  <string name="set_low_clock_summary_head">Állítsa be az alacsony terhelésű videókártya órajelet. Alapértelmezett: 400 MHz</string>
   <string name="gpu_misc_subcat_title">Egyéb</string>
   <string name="gpu_voltage_title_head">GPU feszültségcsökkentés</string>
   <string name="gpu_voltage_summary_head">VIGYÁZZ! ERŐSEN AJÁNLOTT A VISSZAÁLLÍTÁS ÚJRAINDÍTÁSNÁL TÖRTÉNŐ LETILTÁSA! Ezek a feszültségek más meghajókat, mint pl.<b>videó, kép, Audio-meghajtót</b> is ellátják, nem csak a videókártyát! MINDENKI A SAJÁT FELELŐSSÉGÉRE CSÖKKENTSE A FESZÜLTSÉGET!</string>

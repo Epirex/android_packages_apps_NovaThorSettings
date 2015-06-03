@@ -136,7 +136,7 @@ OnPreferenceChangeListener {
 				DeviceSettings.KEY_SET_HIGH_CLOCK, "499200"));
 
 		Utils.writeValue(FILE_BOOST_LOW, sharedPrefs.getString(
-				DeviceSettings.KEY_SET_LOW_CLOCK, "307200"));
+				DeviceSettings.KEY_SET_LOW_CLOCK, "399360"));
 
 		// TCP Control Restore
 		try {

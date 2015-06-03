@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">Вимкнути AutoBoost GPU</string>
   <string name="disable_autoboost_summary_head">Вимкнути AutoBoost GPU governor, це дозволяє вручну виставити статичну тактову частоту GPU .</string>
   <string name="set_gpu_clock_title_head">Тактова частота</string>
-  <string name="set_gpu_clock_summary_head">Вибрати статичну частоту GPU. За замовчуванням: 300МГц</string>
+  <string name="set_gpu_clock_summary_head">Вибрати статичну частоту GPU. За замовчуванням: 400МГц</string>
   <string name="disable_fullspeed_title_head">Вимкнути повну швидкість GPU</string>
   <string name="disable_fullspeed_summary_head">За замовчуванням GPU працює на максимальній тактовій частоті. Змініть його на половину (399 кГц / 2 = 199 кГц, і т.д.)</string>
   <string name="mali_boost_subcat_title">Розгін Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Частота при високому навантаженні</string>
   <string name="set_high_clock_summary_head">Встановити тактову частоту GPU при високому навантажені. За замовчуванням: 480 МГц</string>
   <string name="set_low_clock_title_head">Частота при низькому навантаженні</string>
-  <string name="set_low_clock_summary_head">Встановити тактову частоту GPU при низькому навантажені. За замовчуванням: 300 МГц</string>
+  <string name="set_low_clock_summary_head">Встановити тактову частоту GPU при низькому навантажені. За замовчуванням: 400 МГц</string>
   <string name="gpu_misc_subcat_title">Інше</string>
   <string name="gpu_voltage_title_head">Пониження напруги GPU</string>
   <string name="gpu_voltage_summary_head">БУДЬТЕ ОБЕРЕЖНІ! РЕКОМЕНДУЄТЬСЯ ВИМКНУТИ ВІДНОВЛЕННЯ ПРИ ПЕРЕЗАВАНТАЖЕНІ В НАСТРОЙКАХ! Ці напруги також впливають на інші компоненти, як <b>відео, зображення, аудіо</b>, не тільки GPU! ЗМЕНШУЙТЕ ВОЛЬТАЖ НА СВІЙ СТРАХ І РИЗИК!</string>

@@ -144,7 +144,8 @@
         <item>240 MHz</item>
         <item>300 MHz</item>
         <item>360 MHz</item>
-        <item>420 MHz</item>
+        <item>400 MHz</item>
+        <item>440 MHz</item>
         <item>480 MHz</item>
         <item>540 MHz</item>
         <item>600 MHz</item>
@@ -159,7 +160,8 @@
         <item>245760</item>
         <item>307200</item>
         <item>360960</item>
-        <item>422400</item>
+        <item>399360</item>
+        <item>445440</item>
         <item>499200</item>
         <item>545280</item>
         <item>606720</item>

@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">Wyłącz Auto Przyspieszanie procesora graficznego</string>
   <string name="disable_autoboost_summary_head">Wyłączanie zarządcy automatycznego przyśpieszania procesora graficznego pozwala na ręczne ustawienie statycznej częstotliwości taktowania procesora graficznego .</string>
   <string name="set_gpu_clock_title_head">Taktowanie zegara</string>
-  <string name="set_gpu_clock_summary_head">Ustaw stałą wartość szybkości taktowania procesora graficznego. Domyślnie: 300MHz</string>
+  <string name="set_gpu_clock_summary_head">Ustaw stałą wartość szybkości taktowania procesora graficznego. Domyślnie: 400MHz</string>
   <string name="disable_fullspeed_title_head">Wyłącz maksymalne taktowanie procesora graficznego</string>
   <string name="disable_fullspeed_summary_head">Domyślnie zegar procesora graficznego pracuje na maksymalnym taktowaniu. Zmień go o połowę (399 kHz / 2 = 199 kHz, itp.)</string>
   <string name="mali_boost_subcat_title">Przyśpieszenie Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Najwyższa wartość obciążenia zegara</string>
   <string name="set_high_clock_summary_head">Ustaw najwyższy próg obciążenia taktowania zegara GPU. Domyślnie: 480MHz</string>
   <string name="set_low_clock_title_head">Najniższa wartość obciążenia zegara</string>
-  <string name="set_low_clock_summary_head">Ustaw najniższy próg obciążenia taktowania zegara GPU. Domyślnie: 300MHz</string>
+  <string name="set_low_clock_summary_head">Ustaw najniższy próg obciążenia taktowania zegara GPU. Domyślnie: 400MHz</string>
   <string name="gpu_misc_subcat_title">Różne</string>
   <string name="gpu_voltage_title_head">Zmniejszanie napięcia GPU</string>
   <string name="gpu_voltage_summary_head">UWAGA! BARDZO ZALECANE JEST WYŁĄCZENIE PRZYWRACANIA USTAWIEŃ PO PONOWNYM URUCHOMIENIU! Zmieniane napięcie zasila również inne silniki takie jak <b> silniki wideo, obrazu, dźwięku</b>, a nie tylko GPU!  NAPIĘCIE ZMNIEJSZASZ NA WŁASNE RYZYKO!</string>

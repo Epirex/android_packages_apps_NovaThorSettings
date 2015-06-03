@@ -123,7 +123,7 @@
   <string name="disable_autoboost_title_head">Desativar AutoBoost GPU</string>
   <string name="disable_autoboost_summary_head">Desabilitando o governador AutoBoost GPU permitirá que você defina manualmente a velocidade de clock GPU, de forma que se torne estática.</string>
   <string name="set_gpu_clock_title_head">Velocidade do clock</string>
-  <string name="set_gpu_clock_summary_head">Defina a velocidade estática do clock da GPU. Padrão: 300 MHz</string>
+  <string name="set_gpu_clock_summary_head">Defina a velocidade estática do clock da GPU. Padrão: 400 MHz</string>
   <string name="boost_highthresh_summary_head">Ajuste o limite no qual o clock da GPU aumenta. Padrão: 233</string>
   <string name="boost_lowthresh_summary_head">Ajuste o limite no qual o clock da GPU diminui. Padrão: 64</string>
   <string name="gpu_misc_subcat_title">Diversos</string>

@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">AutoBoost GPU\'yu devre dışı bırak</string>
   <string name="disable_autoboost_summary_head">AutoBoost GPU governor\'u devre dışı bırakmak, el ile statik GPU clock hızları ayarlama izni verir.</string>
   <string name="set_gpu_clock_title_head">Clock hızı</string>
-  <string name="set_gpu_clock_summary_head">Statik GPU clock hızını ayarlayın. Varsayılan: 300 MHz</string>
+  <string name="set_gpu_clock_summary_head">Statik GPU clock hızını ayarlayın. Varsayılan: 400 MHz</string>
   <string name="disable_fullspeed_title_head">Tam hız GPU\'yu devre dışı bırak</string>
   <string name="disable_fullspeed_summary_head">Varsayılan olarak, GPU clock tam hızda çalışır. Hızı yarıya düşürün (399 kHz / 2 = 199 kHz, vs.)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Fazla yüklü clock hızı</string>
   <string name="set_high_clock_summary_head">Fazla yüklü GPU clock hızını ayarlayın. Varsayılan: 480 MHz</string>
   <string name="set_low_clock_title_head">Düşük yüklü clock hızı</string>
-  <string name="set_low_clock_summary_head">Düşük yüklü GPU clock hızını ayarlayın. Varsayılan: 300 MHz</string>
+  <string name="set_low_clock_summary_head">Düşük yüklü GPU clock hızını ayarlayın. Varsayılan: 400 MHz</string>
   <string name="gpu_misc_subcat_title">Çeşitli</string>
   <string name="gpu_voltage_title_head">GPU Düşük voltaj</string>
   <string name="gpu_voltage_summary_head">DİKKAT! YENİDEN BAŞLATMADA GERİ YÜKLEMENİN DEVRE DIŞI BIRAKILMASI ŞİDDETLE ÖNERİLİR! Bu voltajlar aynı zamanda <b>Vidyo, Resim, Ses motorları</b> gibi motorlara da kaynak sağlar, sadece GPU\'ya değil. DÜŞÜK VOLTAJ AYARLARI SİZİN SORUMLULUĞUNUZDADIR!</string>

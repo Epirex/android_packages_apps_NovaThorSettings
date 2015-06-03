@@ -89,7 +89,7 @@
   <string name="disable_autoboost_title_head">Онемогући AutoBoost GPU</string>
   <string name="disable_autoboost_summary_head">Онемогућавање autoboosting GPU говернора дозвољава ручно подешавање статичке GPU фреквенције.</string>
   <string name="set_gpu_clock_title_head">Фреквенција</string>
-  <string name="set_gpu_clock_summary_head">Подеси статичку GPU фреквенцију. Основна: 300 MHz</string>
+  <string name="set_gpu_clock_summary_head">Подеси статичку GPU фреквенцију. Основна: 400 MHz</string>
   <string name="disable_fullspeed_title_head">Онемогући пуну брзину GPU</string>
   <string name="disable_fullspeed_summary_head">По дифолту, GPU ради пуном брзином. Смањи брзину на пола (399 kHz / 2 = 199 kHz, итд.)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>
@@ -102,7 +102,7 @@
   <string name="set_high_clock_title_head">Фреквенција Високог оптерећења</string>
   <string name="set_high_clock_summary_head">Подеси фреквенцију високог оптерећења GPU. Основно: 480 MHz</string>
   <string name="set_low_clock_title_head">Фреквенција Ниског оптерећења</string>
-  <string name="set_low_clock_summary_head">Подеси фреквенцију ниског оптерећења GPU. Основно: 300 MHz</string>
+  <string name="set_low_clock_summary_head">Подеси фреквенцију ниског оптерећења GPU. Основно: 400 MHz</string>
   <string name="gpu_misc_subcat_title">Остало</string>
   <string name="gpu_voltage_title_head">Смањивање напона GPU</string>
   <string name="gpu_voltage_summary_head">УПОЗОРЕЊЕ! ОЗБИЉНО ПРЕПОРУЧУЈЕМО ДА ОНЕМОГУЋИТЕ ВРАЋАЊЕ ПРИ РЕСТАРТУ У ПОДЕШАВАЊИМА! Ови напони важе и за друге енџине <b>Video, Image, Audio енџин</b>, не само за GPU! СМАЊУЈЕТЕ НАПОН НА СВОЈ РИЗИК!</string>

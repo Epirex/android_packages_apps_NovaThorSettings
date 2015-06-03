@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">Desactivar el AutoBoost de la GPU</string>
   <string name="disable_autoboost_summary_head">Desactivar el incremento automático (AutoBoost) de la GPU permite fijar manualmente velocidades de reloj.</string>
   <string name="set_gpu_clock_title_head">Velocidad de reloj</string>
-  <string name="set_gpu_clock_summary_head">Fijar velocidad de reloj de la GPU. Predeterminado: 300MHz</string>
+  <string name="set_gpu_clock_summary_head">Fijar velocidad de reloj de la GPU. Predeterminado: 400MHz</string>
   <string name="disable_fullspeed_title_head">Desactivar GPU a toda-velocidad</string>
   <string name="disable_fullspeed_summary_head">Por defecto, el reloj de la GPU funciona a toda velocidad. Utilizar la mitad de la velocidad (399 kHz / 2 = 199 kHz, etc.)</string>
   <string name="mali_boost_subcat_title">Mali Boost</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">High Load Clock Speed</string>
   <string name="set_high_clock_summary_head">Establecer la velocidad de la GPU cuando la carga es alta. Por defecto: 480MHz</string>
   <string name="set_low_clock_title_head">Low Load Clock Speed</string>
-  <string name="set_low_clock_summary_head">Establecer la velocidad de la GPU cuando la carga es baja. Por defecto: 300MHz</string>
+  <string name="set_low_clock_summary_head">Establecer la velocidad de la GPU cuando la carga es baja. Por defecto: 400MHz</string>
   <string name="gpu_misc_subcat_title">Varios</string>
   <string name="gpu_voltage_title_head">GPU Undervolting</string>
   <string name="gpu_voltage_summary_head">CUIDADO! ES ALTAMENTE RECOMENDADO DESHABILITAR LA RESTAURACIÓN AL INICIO! Estos voltajes también suministran otros motores como los de <b>Video, Imagen, Audio</b> y no sólo la GPU! DISMINUIR EL VOLTAJE BAJO TU PROPIA RESPONSABILIDAD!</string>

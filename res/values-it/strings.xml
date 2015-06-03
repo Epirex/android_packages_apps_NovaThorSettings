@@ -129,7 +129,7 @@
   <string name="disable_autoboost_title_head">Disattiva l\'autoboost della GPU</string>
   <string name="disable_autoboost_summary_head">Disabilitando la gestione automatica della GPU, potrai impostare manualmente una velocità fissa.</string>
   <string name="set_gpu_clock_title_head">Frequenza</string>
-  <string name="set_gpu_clock_summary_head">Imposta la velocità fissa della GPU. Impostazione predefinita: 300 MHz</string>
+  <string name="set_gpu_clock_summary_head">Imposta la velocità fissa della GPU. Impostazione predefinita: 400 MHz</string>
   <string name="disable_fullspeed_title_head">Disattiva la massima frequenza della GPU</string>
   <string name="disable_fullspeed_summary_head">Di default, la GPU lavora alla velocità massima. Cambiala con velocità intermedie (399 kHz / 2 = 199 kHz, etc.)</string>
   <string name="mali_boost_subcat_title">Aumento prestazioni Mali</string>
@@ -142,7 +142,7 @@
   <string name="set_high_clock_title_head">Valore massimo della frequenza GPU</string>
   <string name="set_high_clock_summary_head">Impostare la frequenza della GPU sotto alto carico di lavoro. Predefinito: 480 MHz</string>
   <string name="set_low_clock_title_head">Valore minimo della frequenza GPU</string>
-  <string name="set_low_clock_summary_head">Impostare il valore minimo della frequenza della GPU. Predefinito: 300 MHz</string>
+  <string name="set_low_clock_summary_head">Impostare il valore minimo della frequenza della GPU. Predefinito: 400 MHz</string>
   <string name="gpu_misc_subcat_title">Varie</string>
   <string name="gpu_voltage_title_head">GPU Undervolting</string>
   <string name="gpu_voltage_summary_head">ATTENZIONE! E\' ALTAMENTE RACCOMANDATO DISATTIVARE IL RIPRISTINO AL RIAVVIO NELLE IMPOSTAZIONI! Queste tensioni anche forniscono energia anche ad altri parti del telefono come <b>Video, immagine, Audio</b>, non solo GPU!EFFETTUA L\'UNDERVOLTING A TUO RISCHIO!</string>
