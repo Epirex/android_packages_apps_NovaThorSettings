@@ -19,7 +19,7 @@
     <string name="about_translators_title">Translators</string>
     <string name="about_translators_summary">Crowdin Translators</string>
     <string name="about_version_title">Version Number</string>
-    <string name="about_version_summary" translatable="false">1.5.1</string>
+    <string name="about_version_summary" translatable="false">1.6</string>
     <string name="about_copyright1" translatable="false">Copyright © 2015 TeamCanjica</string>
     <string name="about_copyright2" translatable="false">2013 Cyanogenmod</string>
 
