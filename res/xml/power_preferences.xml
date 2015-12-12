@@ -11,6 +11,15 @@
             android:title="@string/otg_power_title_head" />
     </PreferenceCategory>
 
+    <PreferenceCategory android:title="@string/fast_charge_subcat_title" >
+        <!-- Force Fast Charge -->
+        <CheckBoxPreference
+            android:defaultValue="0"
+            android:key="fast_charge"
+            android:summary="@string/fast_charge_summary_head"
+            android:title="@string/fast_charge_title_head" />
+    </PreferenceCategory>
+
     <PreferenceCategory android:title="@string/cc_subcat_title" >
         <!-- Charger control -->
         <CheckBoxPreference

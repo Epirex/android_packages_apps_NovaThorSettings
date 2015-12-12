@@ -34,7 +34,7 @@ import com.teamcanjica.settings.device.Utils;
 public class PowerFragmentActivity extends PreferenceFragment {
 
 	private static final String TAG = "NovaThor_Settings_Power";
-
+	private static final String FILE_FAST_CHARGE = "/sys/kernel/fast_charge/force_fast_charge";
 	private static final String FILE_VOTG = "/sys/kernel/abb-regu/VOTG";
 	private static final String FILE_CHARGER_CONTROL = "/sys/kernel/abb-charger/charger_curr";
 	private static final String FILE_CYCLE_CHARGING_CONTROL = "/sys/kernel/abb-fg/fg_cyc";
@@ -72,6 +72,9 @@ public class PowerFragmentActivity extends PreferenceFragment {
 		if (key.equals(DeviceSettings.KEY_USB_OTG_POWER)) {
 			Utils.writeValue(FILE_VOTG, ((CheckBoxPreference) preference).
 					isChecked());
+		} else if (key.equals(DeviceSettings.KEY_FAST_CHARGE)) {
+			Utils.writeValue(FILE_FAST_CHARGE,
+					((CheckBoxPreference) preference).isChecked() ? "on" : "off");
 		} else if (key.equals(DeviceSettings.KEY_USE_CHARGER_CONTROL)) {
 			Utils.writeValue(FILE_CHARGER_CONTROL,
 					((CheckBoxPreference) preference).isChecked() ? "on" : "off");
@@ -106,6 +109,9 @@ public class PowerFragmentActivity extends PreferenceFragment {
 
 		Utils.writeValue(FILE_VOTG, sharedPrefs.getBoolean(
 				DeviceSettings.KEY_USB_OTG_POWER, false) ? "1" : "0");
+
+		Utils.writeValue(FILE_FAST_CHARGE, sharedPrefs.getBoolean(
+				DeviceSettings.KEY_FAST_CHARGE, false) ? "1" : "0");
 
 		Utils.writeValue(FILE_CHARGER_CONTROL, sharedPrefs.getBoolean(
 				DeviceSettings.KEY_USE_CHARGER_CONTROL, false) ? "on" : "off");

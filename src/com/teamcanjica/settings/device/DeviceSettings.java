@@ -52,6 +52,7 @@ public class DeviceSettings extends Activity implements OnItemClickListener{
 
 	// Power
 	public static final String KEY_USB_OTG_POWER = "usb_otg_power";
+	public static final String KEY_FAST_CHARGE = "fast_charge";
 	public static final String KEY_USE_CHARGER_CONTROL = "use_charger_control";
 	public static final String KEY_CHARGER_CURRENCY = "charger_currency";
 	public static final String KEY_USE_CYCLE_CHARGING = "use_cycle_charging";
