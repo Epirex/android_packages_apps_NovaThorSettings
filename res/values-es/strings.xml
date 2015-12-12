@@ -31,6 +31,9 @@
   <string name="otg_subcat_title">Ajustes USB OTG</string>
   <string name="otg_power_title_head">Alimentación USB-VBUS</string>
   <string name="otg_power_summary_head">Activa el voltaje de salida en el puerto Micro-USB</string>
+  <string name="fast_charge_subcat_title">Cargador</string>
+  <string name="fast_charge_title_head">Forzar carga rapida</string>
+  <string name="fast_charge_summary_head">Incrementa la velocidad de carga hasta un 20% mas rapido (Reinicio necesario). Si usted tiene problemas con la carga por favor desactive esto.</string>
   <string name="cc_subcat_title">Control de carga</string>
   <string name="use_cc_title_head">Usar control de carga</string>
   <string name="use_cc_summary_head">Activa el control de carga</string>

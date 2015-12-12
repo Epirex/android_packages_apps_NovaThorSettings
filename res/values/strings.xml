@@ -65,7 +65,7 @@
    <!-- SUBCATEGORY: Fast Charge -->
     <string name="fast_charge_subcat_title">Charger</string>
     <string name="fast_charge_title_head">Force Fast Charge</string>
-    <string name="fast_charge_summary_head">Increases the charge speed up to 20%. If you have problems with the charge please disable it.</string>
+    <string name="fast_charge_summary_head">Increases the charge speed up to 20% (Reboot required). If you have problems with the charge please disable it.</string>
 
     <!-- SUBCATEGORY: Charger Control -->
     <string name="cc_subcat_title">Charger control</string>
