@@ -237,6 +237,8 @@ public class Utils {
 			activity.setTheme(R.style.HoloLightTheme);
 		} else if (theme.equals("Holo Light w/ Dark Action Bar")) {
 			activity.setTheme(R.style.HoloLightDarkActionBarTheme);
+		} else if (theme.equals("Material Design")) {
+			activity.setTheme(R.style.MaterialTheme);
 		}
 	}
 }
