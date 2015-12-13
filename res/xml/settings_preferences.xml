@@ -11,7 +11,7 @@
             android:key="switch_theme"
             android:summary="@string/switch_theme_summary_head"
             android:title="@string/switch_theme_title_head"
-            android:defaultValue="Default"
+            android:defaultValue="Material Design"
             android:entries="@array/switch_theme_entries"
             android:entryValues="@array/switch_theme_entries_values" />
     </PreferenceCategory>

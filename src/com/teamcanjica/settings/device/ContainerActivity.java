@@ -47,7 +47,7 @@ public class ContainerActivity extends Activity {
 		SharedPreferences sharedPrefs = PreferenceManager
 				.getDefaultSharedPreferences(getBaseContext());
 		Utils.changeTheme(this, sharedPrefs.getString(
-				DeviceSettings.KEY_SWITCH_THEME, "Default"));
+				DeviceSettings.KEY_SWITCH_THEME, "Material Design"));
 		
 		setContentView(R.layout.container);
 		frameLayout = (FrameLayout) findViewById(R.id.frameLayout);

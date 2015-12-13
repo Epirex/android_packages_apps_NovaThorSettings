@@ -149,7 +149,7 @@ public class DeviceSettings extends Activity implements OnItemClickListener{
 		SharedPreferences sharedPrefs = PreferenceManager
 				.getDefaultSharedPreferences(getBaseContext());
 		Utils.changeTheme(this, sharedPrefs.getString(
-                DeviceSettings.KEY_SWITCH_THEME, "Default"));
+                DeviceSettings.KEY_SWITCH_THEME, "Material Design"));
 		
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_device_settings);
