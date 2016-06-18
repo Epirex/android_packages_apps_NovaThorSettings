@@ -35,7 +35,6 @@
 		    android:parentActivityName="com.teamcanjica.settings.device.DeviceSettings" />
 		<activity android:name="com.teamcanjica.settings.device.AboutActivity"
 		    android:parentActivityName="com.teamcanjica.settings.device.DeviceSettings" />
-		<activity android:name="com.teamcanjica.settings.device.fragments.NetworkFragmentActivity" />
 		<activity android:name="com.teamcanjica.settings.device.fragments.USBFragmentActivity" />
 		<activity android:name="com.teamcanjica.settings.device.fragments.AudioFragmentActivity" />
 		<activity android:name="com.teamcanjica.settings.device.fragments.IOFragmentActivity" />

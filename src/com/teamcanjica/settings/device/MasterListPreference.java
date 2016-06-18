@@ -63,24 +63,12 @@ OnPreferenceChangeListener {
 			Utils.writeValue(FILE_CHARGER_CURR, (String) newValue);
 		} else if (key.equals(DeviceSettings.KEY_DEEPEST_SLEEP_STATE)) {
 			Utils.writeValue(FILE_DEEPEST_SLEEP_STATE, (String) newValue);
-		} else if (key.equals(DeviceSettings.KEY_HSPA)) {
-			sendIntent(mCtx, (String) newValue);
 		} else if (key.equals(DeviceSettings.KEY_MALI_L2MR)) {
 			Utils.writeValue(FILE_MALIL2_MAX_READS, (String) newValue);
 		} else if (key.equals(DeviceSettings.KEY_MALI_PAM)) {
 			Utils.writeValue(FILE_MALI_PREALLOC_MEM, (String) newValue);
 		} else if (key.equals(DeviceSettings.KEY_SCHED_MC)) {
 			Utils.writeValue(FILE_SCHED_MC, (String) newValue);
-		} else if (key.equals(DeviceSettings.KEY_TCP_CONTROL)) {
-			try {
-				Process tcp = Runtime.getRuntime().exec(new String[]{
-						"su", "-c", "sysctl -w net.ipv4.tcp_congestion_control=" + (String) newValue});
-				tcp.waitFor();
-			} catch (IOException e) {
-				e.printStackTrace();
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
 		} else if (key.equals(DeviceSettings.KEY_PANEL_GAMMA)) {
 			Utils.writeValue(FILE_PANEL_GAMMA, (String) newValue);
 		} else if (key.equals(DeviceSettings.KEY_TOUCHSCREEN_SENSITIVITY)) {
@@ -114,9 +102,6 @@ OnPreferenceChangeListener {
 		Utils.writeValue(FILE_DEEPEST_SLEEP_STATE, sharedPrefs.getString(
 				DeviceSettings.KEY_DEEPEST_SLEEP_STATE, "4"));
 		
-		sendIntent(context,
-				sharedPrefs.getString(DeviceSettings.KEY_HSPA, "23"));
-		
 		Utils.writeValue(FILE_MALIL2_MAX_READS, sharedPrefs.getString(
 				DeviceSettings.KEY_MALI_L2MR, "48"));
 		
@@ -137,26 +122,5 @@ OnPreferenceChangeListener {
 
 		Utils.writeValue(FILE_BOOST_LOW, sharedPrefs.getString(
 				DeviceSettings.KEY_SET_LOW_CLOCK, "399360"));
-
-		// TCP Control Restore
-		try {
-			Process tcp = Runtime.getRuntime().exec(new String[]{
-					"su", "-c", "sysctl -w net.ipv4.tcp_congestion_control=" +
-							sharedPrefs.getString(DeviceSettings.KEY_TCP_CONTROL, "cubic")});
-			tcp.waitFor();
-		} catch (IOException e) {
-			e.printStackTrace();
-		} catch (InterruptedException e) {
-			e.printStackTrace();
-		}
-
-	}
-	
-	private static void sendIntent(Context context, String value) {
-		Intent i = new Intent("com.cyanogenmod.SamsungServiceMode.EXECUTE");
-		i.putExtra("sub_type", 20); // HSPA Setting
-		i.putExtra("data", value);
-		context.sendBroadcast(i);
-	}
 
 }

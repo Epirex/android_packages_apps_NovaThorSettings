@@ -45,11 +45,6 @@ public class DeviceSettings extends Activity implements OnItemClickListener{
 	public static boolean disableRestore;
 	public static final String SETTINGS = "settings";
 
-	// Network
-	public static final String KEY_HSPA = "hspa";
-	public static final String KEY_TCP_CONTROL = "tcp_control";
-	public static final String KEY_USE_WIFIPM_MAX = "use_wifipm_max";
-
 	// Power
 	public static final String KEY_USB_OTG_POWER = "usb_otg_power";
 	public static final String KEY_FAST_CHARGE = "fast_charge";

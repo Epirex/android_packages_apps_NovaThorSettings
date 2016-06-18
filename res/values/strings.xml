@@ -36,24 +36,6 @@
     <string name="switch_theme_summary_head">Switch your App Theme. Choose between three different themes, suggestions accepted!</string>
     <string name="switch_theme_title_head">Switch App Theme</string>
 
-    <!-- CATEGORY: Network -->
-    <string name="network_name">Network</string>
-
-    <!-- SUBCATEGORY: Radio mode -->
-    <string name="radio_subcat_title">Radio mode</string>
-    <string name="hspa_title_head">HSPA</string>
-    <string name="hspa_summary_head">Enable HSDPA/HSUPA</string>
-
-    <!-- SUBCATEGORY: TCP -->
-    <string name="tcp_subcat_title">TCP</string>
-    <string name="tcp_title_head">TCP Algorithm</string>
-    <string name="tcp_summary_head">Switching the algorithm affects your download and upload speeds and latency.</string>
-
-    <!-- SUBCATEGORY: WIFI -->
-    <string name="wifi_subcat_title">Wi-Fi</string>
-    <string name="use_wifipm_max_title_head">Use Wi-Fi PM_MAX mode</string>
-    <string name="use_wifipm_max_summary_head">Using PM_MAX saves power, but internet speed is reduced.</string>
-
     <!-- CATEGORY: Power -->
     <string name="power_name">Power</string>
 

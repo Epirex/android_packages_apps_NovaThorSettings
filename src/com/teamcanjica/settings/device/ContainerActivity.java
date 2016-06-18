@@ -32,7 +32,6 @@ import com.teamcanjica.settings.device.fragments.AdvancedFragmentActivity;
 import com.teamcanjica.settings.device.fragments.AudioFragmentActivity;
 import com.teamcanjica.settings.device.fragments.GPUFragmentActivity;
 import com.teamcanjica.settings.device.fragments.IOFragmentActivity;
-import com.teamcanjica.settings.device.fragments.NetworkFragmentActivity;
 import com.teamcanjica.settings.device.fragments.ScreenFragmentActivity;
 import com.teamcanjica.settings.device.fragments.SettingsFragmentActivity;
 import com.teamcanjica.settings.device.fragments.PowerFragmentActivity;
@@ -56,30 +55,26 @@ public class ContainerActivity extends Activity {
 		try {
 		switch (getIntent().getExtras().getInt(DeviceSettings.SELECTION)) {
 			case 0:
-				// Network
-				fragment = new NetworkFragmentActivity();
-				break;
-			case 1:
 				// Power
 				fragment = new PowerFragmentActivity();
 				break;
-			case 2:
+			case 1:
 				// Audio
 				fragment = new AudioFragmentActivity();
 				break;
-			case 3:
+			case 2:
 				// Screen
 				fragment = new ScreenFragmentActivity();
 				break;
-			case 4:
+			case 3:
 				// GPU
 				fragment = new GPUFragmentActivity();
 				break;
-			case 5:
+			case 4:
 				// I/O
 				fragment = new IOFragmentActivity();
 				break;
-			case 6:
+			case 5:
 				// Advanced
 				fragment = new AdvancedFragmentActivity();
 				break;

@@ -26,7 +26,6 @@ import com.teamcanjica.settings.device.fragments.AdvancedFragmentActivity;
 import com.teamcanjica.settings.device.fragments.AudioFragmentActivity;
 import com.teamcanjica.settings.device.fragments.GPUFragmentActivity;
 import com.teamcanjica.settings.device.fragments.IOFragmentActivity;
-import com.teamcanjica.settings.device.fragments.NetworkFragmentActivity;
 import com.teamcanjica.settings.device.fragments.ScreenFragmentActivity;
 import com.teamcanjica.settings.device.fragments.SettingsFragmentActivity;
 import com.teamcanjica.settings.device.fragments.PowerFragmentActivity;
@@ -42,7 +41,6 @@ public class Startup extends BroadcastReceiver {
 			PowerFragmentActivity.restore(context);
 			AudioFragmentActivity.restore(context);
 			ScreenFragmentActivity.restore(context);
-			NetworkFragmentActivity.restore(context);
 			AdvancedFragmentActivity.restore(context);
 			GPUFragmentActivity.restore(context);
 			MasterEditTextPreference.restore(context);
